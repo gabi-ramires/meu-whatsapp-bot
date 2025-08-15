@@ -4,6 +4,9 @@ node_modules/
 # Cache do whatsapp-web.js
 .wwebjs_cache/
 
+# Autenticação do whatsapp-web.js
+.wwebjs_auth/
+
 # Arquivos de ambiente (variáveis secretas)
 .env
 
